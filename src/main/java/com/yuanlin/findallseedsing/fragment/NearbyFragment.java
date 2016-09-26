@@ -35,6 +35,7 @@ public class NearbyFragment extends Fragment {
     public void onResume() {
         super.onResume();
 //        flcontent.addView(view);
+        System.out.println("we can go!");
     }
 
     @Override
