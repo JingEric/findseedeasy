@@ -5,7 +5,6 @@ package com.yuanlin.findallseedsing;
  */
 public class HelloWorld {
     private HelloWorld(){
-
     }
 
     private static  HelloWorld instance = null;
@@ -16,5 +15,6 @@ public class HelloWorld {
         }
         return  instance;
     }
+
 
 }
