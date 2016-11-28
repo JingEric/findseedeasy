@@ -7,9 +7,16 @@
           <option name="uri" value="http://_TFS_LAST_USED_URL_" />
           <option name="serverUri" value="http://_TFS_LAST_USED_URL_" />
           <option name="userId" value="0be8a4d5-f09f-4212-b2a7-6a9d6a12d97a" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;f7143c9a-d65a-45bb-807e-0fec2fc8cdff&quot;,&quot;name&quot;:&quot;Android&quot;,&quot;url&quot;:&quot;http://win-28g9dl1s2vp:8080/tfs/_apis/projectCollections/f7143c9a-d65a-45bb-807e-0fec2fc8cdff&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;苗圃定位APP&quot;,&quot;id&quot;:&quot;739cfc04-56ae-4838-a206-a3ca3d0c73c1&quot;,&quot;name&quot;:&quot;MiaoPu&quot;,&quot;revision&quot;:7,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;http://192.168.11.44:8080/tfs/Android/_apis/projects/739cfc04-56ae-4838-a206-a3ca3d0c73c1&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;709aebf0-b617-4d9f-b259-70a64ca2816c&quot;,&quot;name&quot;:&quot;MiaoPu&quot;,&quot;remoteUrl&quot;:&quot;http://win-28g9dl1s2vp:8080/tfs/Android/_git/MiaoPu&quot;,&quot;url&quot;:&quot;http://192.168.11.44:8080/tfs/Android/_apis/git/repositories/709aebf0-b617-4d9f-b259-70a64ca2816c&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;苗圃定位APP&quot;,&quot;id&quot;:&quot;739cfc04-56ae-4838-a206-a3ca3d0c73c1&quot;,&quot;name&quot;:&quot;MiaoPu&quot;,&quot;revision&quot;:7,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;http://192.168.11.44:8080/tfs/Android/_apis/projects/739cfc04-56ae-4838-a206-a3ca3d0c73c1&quot;}}" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;8db1a44f-7d01-459f-8caf-c8083c1ca424&quot;,&quot;name&quot;:&quot;DefaultCollection&quot;,&quot;url&quot;:&quot;http://192.168.11.44:8080/tfs/_apis/projectCollections/8db1a44f-7d01-459f-8caf-c8083c1ca424&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="TFS" />
+          <option name="uri" value="http://192.168.11.44:8080/tfs" />
+          <option name="serverUri" value="http://192.168.11.44:8080/tfs" />
+          <option name="userId" value="0be8a4d5-f09f-4212-b2a7-6a9d6a12d97a" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;8db1a44f-7d01-459f-8caf-c8083c1ca424&quot;,&quot;name&quot;:&quot;DefaultCollection&quot;,&quot;url&quot;:&quot;http://192.168.11.44:8080/tfs/_apis/projectCollections/8db1a44f-7d01-459f-8caf-c8083c1ca424&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="TFS" />
