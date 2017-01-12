@@ -30,6 +30,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="yugefly@sina.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://win-28g9dl1s2vp:8080" />
+          <option name="userName" value="zhaoyu" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\download" />
