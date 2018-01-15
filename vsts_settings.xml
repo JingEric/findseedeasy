@@ -1,7 +1,24 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array />
+      <array>
+        <ServerContextState>
+          <option name="type" value="TFS" />
+          <option name="uri" value="http://_TFS_LAST_USED_URL_" />
+          <option name="serverUri" value="http://_TFS_LAST_USED_URL_" />
+          <option name="userId" value="0be8a4d5-f09f-4212-b2a7-6a9d6a12d97a" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;f7143c9a-d65a-45bb-807e-0fec2fc8cdff&quot;,&quot;name&quot;:&quot;Android&quot;,&quot;url&quot;:&quot;http://192.168.11.44:8080/tfs/_apis/projectCollections/f7143c9a-d65a-45bb-807e-0fec2fc8cdff&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Android中国园林网APP&quot;,&quot;id&quot;:&quot;9a840829-e4d0-4616-9a30-e72557d1e45b&quot;,&quot;name&quot;:&quot;YuanlinAndroid&quot;,&quot;revision&quot;:14,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;http://192.168.11.44:8080/tfs/Android/_apis/projects/9a840829-e4d0-4616-9a30-e72557d1e45b&quot;}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="TFS" />
+          <option name="uri" value="http://192.168.11.44:8080/tfs" />
+          <option name="serverUri" value="http://192.168.11.44:8080/tfs" />
+          <option name="userId" value="0be8a4d5-f09f-4212-b2a7-6a9d6a12d97a" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;f7143c9a-d65a-45bb-807e-0fec2fc8cdff&quot;,&quot;name&quot;:&quot;Android&quot;,&quot;url&quot;:&quot;http://192.168.11.44:8080/tfs/_apis/projectCollections/f7143c9a-d65a-45bb-807e-0fec2fc8cdff&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Android中国园林网APP&quot;,&quot;id&quot;:&quot;9a840829-e4d0-4616-9a30-e72557d1e45b&quot;,&quot;name&quot;:&quot;YuanlinAndroid&quot;,&quot;revision&quot;:14,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;http://192.168.11.44:8080/tfs/Android/_apis/projects/9a840829-e4d0-4616-9a30-e72557d1e45b&quot;}" />
+        </ServerContextState>
+      </array>
     </option>
     <option name="properties">
       <array>
