@@ -11,6 +11,7 @@
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping ext="sqlite" type="DBN-SQL" />
       <mapping pattern="Markdown" type="Markdown" />
       <removed_mapping ext="md" type="Markdown" />
       <mapping ext="md" type="Native" />
